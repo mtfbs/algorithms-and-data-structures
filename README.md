@@ -1,1 +1,1 @@
-Algorithms I'm learning in college.
+Algorithms and data structures I'm learning in college.

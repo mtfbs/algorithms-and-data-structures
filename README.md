@@ -1,1 +1,1 @@
-Some standard algorithms.
+Algorithms I'm learning in college.

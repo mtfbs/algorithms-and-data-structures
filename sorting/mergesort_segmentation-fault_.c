@@ -1,6 +1,6 @@
 /*
  * Time complexity:
- *     
+ *  +/- the same every case: 0(n*log(n)) 
  */
 
 #include <stdio.h>
